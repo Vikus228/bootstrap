@@ -1,0 +1,21 @@
+footer {
+    background-color: rgb(38, 33, 59);
+    color: aliceblue;
+    width: 100%;
+}
+
+.bg {
+    background-color: rgb(38, 33, 59);
+}
+
+.color {
+    color: white;
+}
+
+.bdColor {
+    background-color: rgba(234, 234, 234, 0.763);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
