@@ -1,21 +1,29 @@
-footer {
-    background-color: rgb(38, 33, 59);
-    color: aliceblue;
-    width: 100%;
-}
-
-.bg {
-    background-color: rgb(38, 33, 59);
-}
-
-.color {
-    color: white;
-}
-
 .bdColor {
-    background-color: rgba(234, 234, 234, 0.763);
+    background-color: rgba(4, 0, 23, 0.745);
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: #ffffff;
+.bdCard {
+    background-color: rgba(237, 237, 237, 0.833);
+    height: 40vh;
+}
+
+.cardSize {
+    max-width: 15vw;
+}
+
+footer {
+    color: aliceblue;
+    height: 10vh;
+}
+
+.margin {
+    margin-bottom: 20px;
+}
+
+.paddingLeft {
+    padding-left: 12.5%;
+}
+
+.paddingRight {
+    padding-right: 12.5%;
 }
